@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 
 👤 My profile:  Full Stack developer thriving in entrepreneurship! Expertise in crafting dynamic Web Applications and excelling in Database Development/Management consulting. Rapid learner, laser-focused on results, and a true team dynamo!.
 
+📄my [Linkedin](http://www.linkedin.com/in/mufaddal_ms) profile for more detail.
+
 👨‍💻 My Tech Stack: <br>
 Javascript/Typescript: TypeScript, ReactJS, NodeJS, ExpressJS, Redux, Ruby, WebSockets, REST APIs. <br>
 HTML/CSS: MUI, Bootstrap. <br>
