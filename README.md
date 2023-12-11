@@ -55,7 +55,7 @@ Other:Python/Django. Jira, Git, Github, Docker, BASH, SSH, AWS. <br>
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center"  height="150em" src="https://github-readme-stats.vercel.app/api?username=ms606&show_icons=true&theme=tokyonight&count_private=true" />
+    <img align="center"  height="150em" src="https://github-readme-stats.vercel.app/api?username=ms606&show_icons=true&theme=dracula&count_private=true" />
   </a>
 </div>    
 <br>
