@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 📄 My [Linkedin](http://www.linkedin.com/in/mufaddal-ms) profile for more detail.
 
-👨‍💻 My Tech Stack: <br>
+### 👨‍💻  My Tech Stack: <br>
 Javascript/Typescript: TypeScript, ReactJS, NodeJS, ExpressJS, Redux, Ruby, WebSockets, REST APIs. <br>
 HTML/CSS: MUI, Bootstrap. <br>
 Database: Database, SQLServerMySQL, PostgreSQL, MongoDB. <br>
