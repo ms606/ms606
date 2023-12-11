@@ -29,8 +29,7 @@ Other:Python/Django. Jira, Git, Github, Docker, BASH, SSH, AWS. <br>
    <img align="center" alt="Rafa-CSS3" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="nodejs" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-  
-  <img align="center" alt="JQuery" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
+
   <img align="center" alt="mongodb" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   
   <img align="center" alt="Rafa-Python" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
