@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-🎯 I’m looking for a job: Software developer in Tampere Or a Remote Job in the Finland Region.
+🎯 I’m looking for a job: Full Stack Software developer Job.
 
 -->
 
