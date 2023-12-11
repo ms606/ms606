@@ -39,7 +39,7 @@ Other:Python/Django. Jira, Git, Github, Docker, BASH, SSH, AWS. <br>
   <img align="center" alt="Rafa-Oracle" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
   <img align="center" alt="mysql" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="postgresql" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-</div>
+
 
 ### 📫 Full professional information:
 <a href='https://www.linkedin.com/in/mufaddal-ms/'><img heigth='50' src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>
