@@ -40,3 +40,18 @@ Other:Python/Django. Jira, Git, Github, Docker, BASH, SSH, AWS. <br>
   <img align="center" alt="mysql" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="postgresql" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 </div>
+
+### 📫 Full professional information:
+<a href='https://www.linkedin.com/in/mufaddal-ms/'><img heigth='50' src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>
+
+<div align="center" style="display: inline_block">
+  <h2>Checkout my GitHub stats</h2> 
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+</div>
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center"  height="150em" src="https://github-readme-stats.vercel.app/api?username=ms606&show_icons=true&theme=tokyonight&count_private=true" />
+  </a>
+</div>    
+<br>
