@@ -15,6 +15,23 @@ Here are some ideas to get you started:
 
 📄 My [Linkedin](http://www.linkedin.com/in/mufaddal-ms) profile for more detail.
 
+### What I Do ###
+
+- **AI Integrations** — Build real-world AI features using OpenAI and Anthropic APIs, including AI assistants, chatbots, workflow automation, and RAG systems.
+- **Full-Stack SaaS Development** — Develop end-to-end applications using Next.js, React, TypeScript, Node.js, Express, and NestJS.
+- **AI-to-Production Engineering** — Turn AI-generated applications built with Cursor, Bolt, Lovable, and v0 into reliable, maintainable, production-ready software.
+- **API Development & Integrations** — Design REST APIs, integrate third-party services, and connect applications to automate business workflows.
+- **Database Design & Optimization** — Build efficient data models, optimize SQL queries, and troubleshoot database performance using MySQL and Oracle PL/SQL.
+- **Performance & Scalability** — Debug complex issues, identify bottlenecks, improve application performance, and strengthen reliability in existing codebases.
+- **Cloud & DevOps** — Build and deploy applications using Google Cloud Platform, including Cloud Run, Cloud SQL, and Artifact Registry.
+- **Workflow Automation & Analytics** — Connect systems and automate business processes using Airtable, Zapier, GA4, and Looker Studio.
+
+### My Engineering Philosophy ###
+
+I focus on building software that goes beyond the demo: clean architecture, maintainable code, reliable integrations, optimized databases, and production-ready solutions.
+
+I enjoy solving complex technical problems, modernizing existing applications, and turning ideas into software that delivers real business value.
+
 ### 👨‍💻  My Tech Stack: <br>
 Javascript/Typescript: TypeScript, ReactJS, NodeJS, ExpressJS, Redux, Ruby, WebSockets, REST APIs. <br>
 HTML/CSS: MUI, Bootstrap. <br>
