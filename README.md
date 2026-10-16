@@ -1,6 +1,6 @@
 # <img width="30" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Waving hand"> Hi there, I'm Mufaddal!
 
-<h3 align="center">Full-Stack Engineer | AI Integrations | Database Engineering</h3>
+<h3 align="center">Software Engineer | AI-Powered Products, TypeScript, Node.js, Databases & Cloud</h3>
 
 <p align="center">
   I build AI-powered applications, full-stack SaaS products, and reliable software integrations.<br>
