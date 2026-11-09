@@ -3,6 +3,7 @@
 <h3 align="center">Software Engineer | AI-Powered Products, TypeScript, Node.js, Databases & Cloud</h3>
 
 <p align="center">
+  Upwork Top Rated Plus · 7,500+ hours · 100% Job Success.<br>
   I build AI-powered applications, full-stack SaaS products, and reliable software integrations.<br>
   I also help turn AI-generated prototypes and existing codebases into maintainable, production-ready applications.
 </p>
